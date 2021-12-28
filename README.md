@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FCBThunder
-- 👀 I’m interested in Console Hacking
-- 🌱 I’m currently learning to fork Github pages
-- 💞️ I’m looking to collaborate on PS4 Stuff
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning to fork / clone and work on Github repositories
+- 💞️ I’m looking to collaborate with everyone.
 - 📫 Reach me by the same Twitter username.
 
 <!---
